@@ -2,3 +2,5 @@ This is complete feature B
 This is base version of the program.
 It has only two lines at the beginning.
 This is complete feature A
+This is first part Feature C
+This is second part of Feature C
