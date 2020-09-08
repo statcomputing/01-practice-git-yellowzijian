@@ -1,4 +1,7 @@
 This is a program
+And this is new feature done in task 1.
+It lasts for many lines as task 1 was big.
 It is supposed to work.
 It works
 It is quite brilliant, actually.
+Task 1 is finished.
